@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              138.563931, 
+              -8.27698
+            ], 
+            [
+              137.6451, 
+              -8.42753
+            ], 
+            [
+              138.7646, 
+              -7.37407
+            ], 
+            [
+              138.563931, 
+              -8.27698
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Propinsi": "IRIAN JAYA TIMUR", 
+        "kode": 85, 
+        "ID": 1, 
+        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+      }
+    }
+  ]
+}
